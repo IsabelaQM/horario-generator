@@ -2,7 +2,6 @@
 
 Este projeto gera múltiplas possibilidades de grades horárias para o curso de Sistemas para Internet, atendendo a critérios específicos de períodos, dias da semana, horários e disciplinas. O resultado é exibido em uma tabela formatada no navegador.
 
----
 
 ## Requisitos
 
@@ -17,15 +16,11 @@ O projeto atende aos seguintes requisitos:
 - **Cada disciplina é ministrada sempre pelo mesmo professor**: Um professor é fixo para cada disciplina.
 - **50 possibilidades de grade horária**: O sistema gera 50 grades horárias diferentes, cada uma representada por uma linha na tabela.
 
----
-
 ## Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
----
 
 ## Como Executar
 
